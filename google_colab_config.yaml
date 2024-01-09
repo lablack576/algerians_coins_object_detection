@@ -1,0 +1,14 @@
+# Path to your dataset
+path: "/data"
+train: images/train
+val: images/val
+
+# Initializing our labels
+names:
+  0: one
+  1: five
+  2: ten
+  3: twenty
+  4: fifty
+  5: one_hundred
+  6: two_hundred
